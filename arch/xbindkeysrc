@@ -1,0 +1,12 @@
+"(amixer set Master mute)"
+    XF86AudioMute
+
+"(amixer set Master 1%- unmute)"
+    XF86AudioLowerVolume
+
+"(amixer set Master 1%+ unmute)"
+    XF86AudioRaiseVolume
+
+"(rofi -show window)"
+    m:0x40 + c:23
+    Mod4 + Tab
