@@ -11,6 +11,4 @@ export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="$GOBIN:$PATH"
 
 
-echo "GOPATH=$GOPATH"
-echo "GOBIN=$GOBIN"
 echo "PATH=$PATH"

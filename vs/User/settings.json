@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "Noto Mono, Comic Sans MS, ZCOOL KuaiLe, VT323, Gloria Hallelujah, Schoolbell, Indie Flower, Go Mono, Noto Mono, Menlo, Monaco, 'Courier New', monospace",
+    "go.buildOnSave": "off",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": -1,
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.cursorBlinking": "solid",
+    "C_Cpp.updateChannel": "Insiders",
+    "go.autocompleteUnimportedPackages": true,
+    // "workbench.colorCustomizations": {
+    //     "editor.lineHighlightBackground": "#3a3a3a"
+    // },
+    "go.formatTool": "goimports",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c11",
+    "terminal.integrated.rendererType": "dom"
+}
