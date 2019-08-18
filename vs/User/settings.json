@@ -18,6 +18,12 @@
     "terminal.integrated.shell.linux": "/usr/bin/fish",
     "rust.all_features": true,
     "editor.fontSize": 15,
+    "glassit.alpha": 255,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "editor.lineNumbers": "relative",
     "workbench.colorTheme": "dark-plus-syntax",
-    "glassit.alpha": 255
+    "go.lintTool": "revive",
+    "rust.clippy_preference": "on"
 }
