@@ -10,4 +10,4 @@ export PATH="$GOBIN:$PATH"
 
 # echo "PATH=$PATH"
 
-export DOCKER_HOST=tcp://127.0.0.1:2375
+# export DOCKER_HOST=tcp://127.0.0.1:2375

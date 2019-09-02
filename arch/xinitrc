@@ -1,13 +1,19 @@
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
-xset r rate 150 125
+
+# keyboard repeat rate
+xset r rate 200 75
+
+# scaling
+xrandr --dpi 220
+
 xbindkeys
 
-#compton --backend glx --paint-on-overlay --vsync opengl-swc -b -c &
+# just a log
+echo kappa >> ~/kappa
 
-# xrandr --dpi 70
 # xrandr --output eDP-1 --mode 0x53 --dpi 90
 # xrandr --output eDP-1 --mode 0x60 --dpi 220 --gamma 1.0:1.15:1.2
-xrandr --output eDP-1 --mode 2560x1440 --dpi 90
-redshift -P -O 15000
+# xrandr --output eDP-1 --mode 2560x1440 --dpi 90
+# redshift -P -O 15000
 
-exec i3
+xset m 20 0
