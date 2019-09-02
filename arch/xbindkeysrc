@@ -10,3 +10,10 @@
 "(rofi -show window)"
     m:0x40 + c:23
     Mod4 + Tab
+
+
+"(xbacklight -dec 3)"
+    XF86MonBrightnessDown
+
+"(xbacklight -inc 3)"
+    XF86MonBrightnessUp
