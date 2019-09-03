@@ -4,7 +4,7 @@
 xset r rate 200 75
 
 # scaling
-xrandr --dpi 220
+xrandr --dpi 180
 
 xbindkeys
 
