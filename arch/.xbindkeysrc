@@ -18,8 +18,8 @@
     Mod4 + Tab
 
 
-"(xbacklight -dec 3)"
+"(xbacklight -dec 2)"
     XF86MonBrightnessDown
 
-"(xbacklight -inc 3)"
+"(xbacklight -inc 2)"
     XF86MonBrightnessUp

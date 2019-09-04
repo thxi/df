@@ -191,7 +191,8 @@ client.focused    #ff8000   #ff8000       #ffffff  #ff8000
 # Solid background color
 # exec --no-startup-id xsetroot -solid "#333333"
 # Wallpaper
-exec_always --no-startup-id feh --bg-scale ~/Downloads/3x.png
+exec_always --no-startup-id feh --bg-scale ~/Downloads/2x.png
+# exec_always --no-startup-id feh --bg-scale ~/Downloads/wall.jpeg
 
 
 # polybar

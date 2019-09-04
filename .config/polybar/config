@@ -85,7 +85,7 @@ font-3 = Siji:pixelsize=11;1
 font-4 = FontAwesome:size=11;0
 
 modules-left = i3
-modules-right =   filesystem volume backlight   battery date
+modules-right = cpu temperature filesystem volume backlight   battery date
 
 [module/backlight]
 type = internal/backlight
