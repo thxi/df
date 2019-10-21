@@ -1,4 +1,7 @@
 {
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#3a3a3a"
+    },
     "editor.fontFamily": "Noto Mono, 'Courier New', monospase",
     "go.buildOnSave": "off",
     "editor.minimap.enabled": false,
@@ -7,10 +10,6 @@
     "editor.cursorBlinking": "solid",
     "C_Cpp.updateChannel": "Insiders",
     "go.autocompleteUnimportedPackages": true,
-    // "workbench.colorCustomizations": {
-    //     "editor.lineHighlightBackground": "#3a3a3a"
-    // },
-    "go.formatTool": "goimports",
     "C_Cpp.default.cppStandard": "c++17",
     "C_Cpp.default.cStandard": "c11",
     "terminal.integrated.rendererType": "dom",
@@ -23,7 +22,9 @@
     "telemetry.enableCrashReporter": false,
     "debug.allowBreakpointsEverywhere": true,
     "editor.lineNumbers": "relative",
-    "workbench.colorTheme": "dark-plus-syntax",
     "go.lintTool": "revive",
-    "rust.clippy_preference": "on"
+    "rust.clippy_preference": "on",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "go.formatTool": "goimports"
 }
