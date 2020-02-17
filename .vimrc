@@ -39,5 +39,10 @@ set nobackup
 set noswapfile
 set nowritebackup
 
+set softtabstop=0 noexpandtab
 " set expandtab
-" set tabstop=4
+set smarttab
+set cindent
+set tabstop=2
+set shiftwidth=2
+set textwidth=80
