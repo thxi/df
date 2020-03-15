@@ -8,6 +8,7 @@
 * [vscode](https://code.visualstudio.com/Download)
 * [firefox](https://www.mozilla.org/en-US/firefox/new/)
 * [chrome](https://www.google.com/chrome/index.html)
+* [amethyst wm](https://github.com/ianyh/Amethyst)
 
 
 ## fonts
@@ -16,4 +17,8 @@
   * Noto Sans
   * Noto Serif
   * Noto mono
+* [Comic Neue](http://www.comicneue.com/)
+* [Cascadia Code](https://devblogs.microsoft.com/commandline/cascadia-code/)
 
+## shell
+* [lambda theme](https://github.com/cdimascio/lambda-zsh-theme)
