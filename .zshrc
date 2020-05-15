@@ -105,4 +105,4 @@ zmodload zsh/complist
 zstyle ':completion:*' menu yes select
 #bindkey -M menuselect '?' history-incremental-search-forward
 
-source ~/.profile
+source $HOME/.profile
