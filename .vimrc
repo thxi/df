@@ -11,9 +11,8 @@ set cursorline
 set t_Co=256
 colorscheme desert
 syntax on
-" very light grey
 " hi CursorLine   cterm=NONE ctermbg=254 ctermfg=NONE
-hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
+" hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 
 
 set number
