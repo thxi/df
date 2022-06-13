@@ -11,8 +11,8 @@ set cursorline
 set t_Co=256
 colorscheme desert
 syntax on
+" very light grey
 " hi CursorLine   cterm=NONE ctermbg=254 ctermfg=NONE
-" hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 
 
 set number
@@ -45,3 +45,5 @@ set cindent
 set tabstop=2
 set shiftwidth=2
 set textwidth=80
+
+set vb t_vb=
