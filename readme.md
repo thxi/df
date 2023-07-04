@@ -13,6 +13,7 @@
 * [docker for mac](https://download.docker.com/mac/stable/Docker.dmg)
 * [homebrew](https://brew.sh/)
 * [amethyst wm](https://github.com/ianyh/Amethyst)
+* [linear mouse](https://linearmouse.app/) 0.6
 
 
 ## fonts
